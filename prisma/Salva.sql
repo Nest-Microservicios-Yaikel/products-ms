@@ -1,0 +1,46 @@
+INSERT INTO "Product" ("id", "name", "price", "description", "quantity", "available", "createdAt", "updatedAt") VALUES
+(1, 'Ruth', '129.11', 'explicit', 31, '1', '1739336060416', '1739336060416');
+INSERT INTO "Product" ("id", "name", "price", "description", "quantity", "available", "createdAt", "updatedAt") VALUES
+(2, 'Teclado', '48.39', 'Teclado mecánico para juegos', 3, '1', '1709049027545', '1709049027545');
+INSERT INTO "Product" ("id", "name", "price", "description", "quantity", "available", "createdAt", "updatedAt") VALUES
+(3, 'Mouse', '245.27', 'Ratón inalámbrico ergonómico', 39, '1', '1709049041977', '1709049041977');
+INSERT INTO "Product" ("id", "name", "price", "description", "quantity", "available", "createdAt", "updatedAt") VALUES
+(4, 'Monitor', '66.9', 'Monitor LED de 27 pulgadas', 44, '1', '1709049047955', '1709049047955'),
+(5, 'Audifonos', '39.37', 'Auriculares inalámbricos con micrófono', 35, '1', '1709049048406', '1709049048406'),
+(6, 'Laptop', '51.45', 'Portátil de 15 pulgadas con i7', 33, '1', '1709049048754', '1709049048754'),
+(7, 'Smartphone', '147.09', 'Teléfono móvil de última generación', 8, '1', '1709049058406', '1709049058406'),
+(8, 'Tablet', '118.17', 'Tableta de 10 pulgadas con Android', 26, '1', '1709049063205', '1709049063205'),
+(9, 'Impresora', '232.23', 'Impresora multifunción con Wi-Fi', 24, '1', '1709049068123', '1709049068123'),
+(10, 'Altavoces', '90.94', 'Altavoces Bluetooth portátiles', 28, '1', '1709049073021', '1709049073021'),
+(11, 'Cámara', '161.13', 'Cámara réflex digital', 15, '1', '1709049077943', '1709049077943'),
+(12, 'Televisor', '48.28', 'Televisor LED de 55 pulgadas', 36, '1', '1709049082912', '1709049082912'),
+(13, 'Router', '164.41', 'Router Wi-Fi de doble banda', 30, '1', '1709049087876', '1709049087876'),
+(14, 'Reproductor Blu-ray', '107.75', 'Reproductor Blu-ray 4K', 14, '1', '1709049092805', '1709049092805'),
+(15, 'Teclado inalámbrico', '46.61', 'Teclado inalámbrico compacto', 17, '1', '1709049097701', '1709049097701'),
+(16, 'Mouse inalámbrico', '47.21', 'Ratón inalámbrico para oficina', 41, '1', '1709049102663', '1709049102663'),
+(17, 'Webcam', '160.38', 'Cámara web HD 1080p', 35, '1', '1709049107602', '1709049107602'),
+(18, 'Tarjeta de video', '156.92', 'Tarjeta gráfica para juegos', 32, '1', '1709049112487', '1709049112487'),
+(19, 'Memoria RAM', '194.68', 'Módulo de memoria RAM DDR4 16GB', 40, '1', '1709049117415', '1709049117415'),
+(20, 'Disco duro externo', '32.0', 'Disco duro externo de 1TB', 45, '1', '1709049122337', '1709049122337'),
+(21, 'Tarjeta madre', '71.65', 'Placa base para PC', 50, '1', '1709049127245', '1709049127245'),
+(22, 'Procesador', '210.5', 'Procesador Intel Core i5', 34, '1', '1709049132156', '1709049132156'),
+(23, 'Cámara web 4K', '243.31', 'Cámara web de alta resolución con micrófono', 18, '1', '1709049237000', '1709049237000'),
+(24, 'Teclado ergonómico', '82.0', 'Teclado diseñado para reducir la fatiga', 23, '0', '1709049242000', '1709049242000'),
+(25, 'Mouse para juegos', '98.67', 'Ratón con alta precisión y botones programables', 42, '0', '1709049247000', '1709049247000'),
+(26, 'Auriculares inalámbricos', '178.17', 'Auriculares con cancelación de ruido', 19, '1', '1709049252000', '1709049252000'),
+(27, 'Altavoces para PC', '117.93', 'Altavoces estéreo con buena calidad de sonido', 45, '0', '1709049257000', '1709049257000'),
+(28, 'Micrófono de condensador', '100.39', 'Micrófono para grabación de audio profesional', 43, '1', '1709049262000', '1709049262000'),
+(29, 'Disco duro SSD', '236.92', 'Disco de estado sólido de alta velocidad', 15, '0', '1709049267000', '1709049267000'),
+(30, 'Memoria RAM DDR5', '163.37', 'Módulo de memoria RAM de última generación', 14, '0', '1709049272000', '1709049272000'),
+(31, 'Tarjeta gráfica RTX 3070', '161.44', 'Tarjeta gráfica de alto rendimiento', 14, '0', '1709049277000', '1709049277000'),
+(32, 'Procesador AMD Ryzen 9', '43.69', 'Procesador de alto rendimiento para PC', 10, '0', '1709049282000', '1709049282000'),
+(33, 'Placa base ATX', '219.12', 'Placa base para PC de escritorio', 46, '0', '1709049287000', '1709049287000'),
+(34, 'Fuente de alimentación', '140.69', 'Fuente de alimentación para PC', 9, '0', '1709049292000', '1709049292000'),
+(35, 'Caja para PC', '129.72', 'Caja para PC de diseño moderno', 23, '1', '1709049297000', '1709049297000'),
+(36, 'Ventilador para PC', '102.53', 'Ventilador para refrigeración de PC', 8, '0', '1709049302000', '1709049302000'),
+(37, 'Refrigeración líquida', '199.21', 'Sistema de refrigeración líquida para PC', 49, '0', '1709049307000', '1709049307000'),
+(38, 'Monitor gaming 144Hz', '5.67', 'Monitor para juegos con alta tasa de refresco', 37, '1', '1709049312000', '1709049312000'),
+(39, 'Silla de oficina', '142.63', 'Silla ergonómica para oficina', 25, '1', '1709049317000', '1709049317000'),
+(40, 'Mesa de escritorio', '160.28', 'Mesa de escritorio para oficina o estudio', 46, '1', '1709049322000', '1709049322000'),
+(41, 'Lámpara de escritorio', '163.01', 'Lámpara LED para escritorio', 3, '0', '1709049327000', '1709049327000'),
+(42, 'Organizador de escritorio', '220.78', 'Organizador para mantener el escritorio ordenado', 17, '1', '1709049332000', '1709049332000');
